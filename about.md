@@ -15,7 +15,7 @@ layout: page
 <ul class="skill-list">
 	<li>HTML5 - Jade - EJS</li>
 	<li>CSS3 (Stylus, Sass, Less)</li>
-	<li>CSS Frameworks (Bootstrap, Foundation, Bulma)</li>
+	<li>CSS Frameworks (Bootstrap, Tailwind CSS, Bulma)</li>
 	<li>Javascript</li>
 	<li>React.js</li>
 	<li>Redux</li>
@@ -29,7 +29,7 @@ layout: page
 	<li>Jest</li>
 	<li>AWS - Heroku - Netlify - Vercel</li>
 	<li>Git & GitHub</li>
-	<li>Scrum and Kanban</li>
+	<li>Scrum & Kanban</li>
 </ul>
 
 <h2>Projects</h2>
