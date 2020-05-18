@@ -2,45 +2,44 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lover of all things science & tech. Highly motivated to build beautiful and responsive web applications. As a former researcher, what I enjoy most about software development is how it rewards problem-solving and the application of scientific thinking.
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm driven to learn new technologies, broaden my knowledge of the tech industry, and make meaningful contributions to projects. Feel free to reach out! I'm open to exploring new opportunities that will challenge my current skill set, and offer long term growth potential.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>HTML5 - Jade - EJS</li>
+	<li>CSS3 (Stylus, Sass, Less)</li>
+	<li>CSS Frameworks (Bootstrap, Foundation, Bulma)</li>
+	<li>Javascript</li>
+	<li>React.js</li>
+	<li>Redux</li>
+	<li>Next.js & Gatsby</li>
+	<li>Node.js</li>
+	<li>Express</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
+	<li>PostgreSQL</li>
+	<li>Sequelize</li>
+	<li>APIs (Rest & GraphQL)</li>
+	<li>Jest</li>
+	<li>AWS - Heroku - Netlify - Vercel</li>
+	<li>Git & GitHub</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/Get-Out-Austin">Get Out, Austin</a></li>
+	<li><a href="https://github.com/Relocatable">Relocatable</a></li>
+	<li><a href="https://github.com/Tribuo">Tribuo</a></li>
+	<li><a href="https://github.com/Book-Smart">Book Smart</a></li>
+	<li><a href="https://github.com/Blackjack">Blackjack</a></li>
+	<li><a href="https://github.com/PythonRPG">PythonRPG</a></li>
+
 </ul>

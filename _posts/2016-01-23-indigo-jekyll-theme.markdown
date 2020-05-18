@@ -1,10 +1,10 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Get Out, Austin"
 layout: post
-date: 2016-01-23 22:10
+#date: 2016-01-23 22:10
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
@@ -15,21 +15,19 @@ externalLink: false
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Example of project - Get Out, Austin - [See Live](https://get-out-austin.now.sh). Get Out, Austin is a full-stack web app built with Next.js for finding, posting, and purchasing experiences around Austin, TX..
 
 ---
 
-What has inside?
+Tech Used
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+-   Next.js
+-   React Hooks and ContextAPI
+-   Firebase & Stripe
+-   PostgreSQL & Sequelize
+-   Node.js & Express & Rest API
+-   AWS (RDS & EC2) - Vercel
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+[Check it out](https://github.com/abdenny/Get-Out-Austin) here.
