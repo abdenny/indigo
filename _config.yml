@@ -38,24 +38,24 @@ disqus:
 #twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
+github: https://www.github.com/abdenny
+linkedin: https://www.linkedin.com/in/abdenny/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: austinbdenny@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Austin Denny
+        bio: Full-Stack Web Developer | Lover of all things JS
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
