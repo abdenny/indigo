@@ -1,6 +1,6 @@
 # main text of home
 name: Austin Denny
-bio: Full-Stack Web Developer
+bio: Full-Stack Web Developer | Lover of all things JS
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyResume.pdf
 
-url: https://abdenny.github.io/
+url: https://abdenny.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -38,8 +38,8 @@ disqus:
 #twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-github: https://www.github.com/abdenny
-linkedin: https://www.linkedin.com/in/abdenny/
+github: abdenny
+linkedin: abdenny
 # youtube: myyoutube
 # spotify: myspotify
 # gitlab: mygitlab
