@@ -35,11 +35,11 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/Get-Out-Austin">Get Out, Austin</a></li>
-	<li><a href="https://github.com/Relocatable">Relocatable</a></li>
-	<li><a href="https://github.com/Tribuo">Tribuo</a></li>
-	<li><a href="https://github.com/Book-Smart">Book Smart</a></li>
-	<li><a href="https://github.com/Blackjack">Blackjack</a></li>
-	<li><a href="https://github.com/PythonRPG">PythonRPG</a></li>
+	<li><a href="https://github.com/abdenny/Get-Out-Austin">Get Out, Austin</a></li>
+	<li><a href="https://github.com/abdenny/Relocatable">Relocatable</a></li>
+	<li><a href="https://github.com/abdenny/Tribuo">Tribuo</a></li>
+	<li><a href="https://github.com/abdenny/Book-Smart">Book Smart</a></li>
+	<li><a href="https://github.com/abdenny/Blackjack">Blackjack</a></li>
+	<li><a href="https://github.com/abdenny/PythonRPG">PythonRPG</a></li>
 
 </ul>

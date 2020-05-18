@@ -1,8 +1,6 @@
 ---
 title: "Get Out, Austin"
 layout: post
-#date: 2016-01-23 22:10
-tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
@@ -15,7 +13,7 @@ externalLink: false
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Example of project - Get Out, Austin - [See Live](https://get-out-austin.now.sh). Get Out, Austin is a full-stack web app built with Next.js for finding, posting, and purchasing experiences around Austin, TX..
+-   [See Live](https://get-out-austin.now.sh) - Get Out, Austin is a full-stack web app built with Next.js for finding, posting, and purchasing experiences around Austin, TX.
 
 ---
 
