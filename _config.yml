@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars2.githubusercontent.com/u/57812295?s=460&u=9a3beb6c5873cb97e2de27cac915e20b414d25a9&v=4
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -73,7 +73,7 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-    enabled: false
+    enabled: true
     sort_reverse: true # display recent posts first
     title: ":title" # Changing this will mess up the header display logic
     per_page: 5
