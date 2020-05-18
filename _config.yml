@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyResume.pdf
 
-url: https://abdenny.github.io
+url: https://abdenny.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
